@@ -6,7 +6,6 @@ A simple browser game developed using only vanilla JS and HTML5 canvas
 
 the game is about a movable tank that can be controlled using left/right arrows, it can fire bullets vertically towards jets that fly over it and that by using space bar.
 the mission is to destroy jets as much as you can before the tank gets destroyed.
-![Gameplay](/images/gameplay/gameplay.png)
 
 the tank has :- 
 
