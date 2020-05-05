@@ -1,7 +1,7 @@
 import {Art} from "./art.mjs";
 import {Tank} from "./tank.mjs";
 import {Jet} from "./jet.mjs";
-import {Bomb} from "./Bomb.mjs";
+import {Bomb} from "./bomb.mjs";
 import util from "./util.mjs";
 import Sound from "./sound.mjs";
 
