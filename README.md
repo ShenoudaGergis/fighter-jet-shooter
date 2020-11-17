@@ -31,4 +31,4 @@ the game still in the development process and may get enhancements and refactori
 
 ## Special thanks
 
-special thanks to @shiffman , I'am always inspired by [him](https://twitter.com/thecodingtrain) and his [Tutorials](https://www.youtube.com/user/shiffman). He is a very professional and friendly man!
+special thanks to "Daniel Shiffman" , I'am always inspired by [him](https://twitter.com/thecodingtrain) and his [Tutorials](https://www.youtube.com/user/shiffman). He is a very professional and friendly man!
